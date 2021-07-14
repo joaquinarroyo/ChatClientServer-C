@@ -1,5 +1,7 @@
 # Chat-Client-Server
 
+Authors: joaquinarroyo and IgnacioCainelli
+
 Implementation of a chat with the client server model in C
 
 To compile the server program, use the 'make server' command, and the 'make client' command for the client program.
