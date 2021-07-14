@@ -1,6 +1,5 @@
 # ChatClientServer-C
-
-Authors: joaquinarroyo and NachoCainelli
+Authors: NachoCainelli(https://github.com/NachoCainelli) and joaquinarroyo(me)
 
 Implementation of a chat with the client server model in C
 
