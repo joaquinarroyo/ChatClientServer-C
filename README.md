@@ -1,6 +1,6 @@
 # Chat-Client-Server
 
-Authors: joaquinarroyo and IgnacioCainelli
+Authors: joaquinarroyo and NachoCainelli
 
 Implementation of a chat with the client server model in C
 
