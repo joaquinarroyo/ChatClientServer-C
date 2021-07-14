@@ -1,4 +1,4 @@
-# Chat-Client-Server
+# ChatClientServer-C
 
 Authors: joaquinarroyo and NachoCainelli
 
